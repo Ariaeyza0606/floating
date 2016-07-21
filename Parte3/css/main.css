@@ -1,1 +1,19 @@
-/* Pon tu código css aqui */
+.bloque{
+	width: 1200px;
+	background: white;
+	border: 2px solid #D7D7D7;
+}
+.float-right{
+	width:25%;
+	height: 100px;
+	float:right;
+}
+#bloque1{
+	background: yellow;
+}
+#bloque2{
+	background: blue;
+}
+#bloque3{
+	background: red;
+}

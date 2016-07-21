@@ -1,1 +1,26 @@
-/* Pon tu código css aqui */
+.bloque{
+	width: 1200px;
+	background: white;
+	border: 2px solid #D7D7D7;
+}
+.clearfix{
+	overflow: auto;
+}
+.float-left1{
+	background: yellow;
+	width:25%;
+	height: 100px;
+	float:left;
+}
+.float-left2{
+	background: blue;
+	width:25%;
+	height: 100px;
+	float:left;
+}
+.float-left3{
+	background: red;
+	width:25%;
+	height: 100px;
+	float:left;
+}

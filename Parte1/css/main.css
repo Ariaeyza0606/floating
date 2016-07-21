@@ -1,22 +1,19 @@
 
 .bloque{
 	width: 1200px;
-	height: 600px;
 	background: white;
 	border: 2px solid #D7D7D7;
 }
-.bloque1{
+.float-left{
+	width:25%;
+	height: 100px;
+}
+#bloque1{
 	background: yellow;
-	width: 300px;
-	height: 200px;
 }
-.bloque2{
+#bloque2{
 	background: blue;
-	width: 300px;
-	height: 200px;
 }
-.bloque3{
+#bloque3{
 	background: red;
-	width: 300px;
-	height: 200px;
 }
